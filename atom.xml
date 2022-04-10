@@ -6,7 +6,7 @@
   <link href="http://122326.github.io/atom.xml" rel="self"/>
   
   <link href="http://122326.github.io/"/>
-  <updated>2022-04-07T09:27:31.385Z</updated>
+  <updated>2022-04-10T03:55:50.008Z</updated>
   <id>http://122326.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="http://122326.github.io/2022/04071.html"/>
-    <id>http://122326.github.io/2022/04071.html</id>
+    <title>Redis</title>
+    <link href="http://122326.github.io/2022/040716107.html"/>
+    <id>http://122326.github.io/2022/040716107.html</id>
     <published>2022-04-07T09:26:23.091Z</published>
-    <updated>2022-04-07T09:27:31.385Z</updated>
+    <updated>2022-04-10T03:55:50.008Z</updated>
     
     
       
@@ -34,6 +34,10 @@
     
     
     
+    
+    <category term="blog" scheme="http://122326.github.io/tags/blog/"/>
+    
+    <category term="hexo" scheme="http://122326.github.io/tags/hexo/"/>
     
   </entry>
   
